@@ -11,17 +11,14 @@ Work performed included:
 
 ## Results
 
-There are at least seven visualizations for the NYC Citibike analysis (7 pt)
-There is a description of the results for each visualization (7 pt)
+* There are at least seven visualizations for the NYC Citibike analysis
+* There is a description of the results for each visualization
+
+[Check out the bike sharing workbook in Tableau](https://public.tableau.com/shared/92PT2P3D6?:display_count=n&:origin=viz_share_link)
 
 ## Summary:
 
-There is a high-level summary of the results and two additional visualizations are suggested for future analysis (5 pt)
+The bike sharing program in NYC seems to have the most appeal to men and male-identified people around age 30 for quick trips, particularly in the evenings - and especially on Thursdays. There is a lot of potential for expanding that market, as there are non-male-identified people who use the service but are not subscribers or do not use it regularly.
 
-Upload the following to your bikesharing GitHub pages repository:
-
-* The NYC_Citibike_Challenge.ipynb file.
-* An updated README.md that has your written analysis with visualizations. 
-* Also, embed the Tableau Public link in your README.md file. You can do this in a few ways, but here are the two most popular ones:
-[link to dashboard](LINK GOES HERE)
-[link to dashboard](LINK GOES HERE "link to dashboard")
+* More study could be done to figure out the average distance of top stations to nearby tourist attractions, and see if there is an optimal distance to place more bike stations.
+* Another opportunity that needs more study is the effect of weather and seasonal changes on the ridership patterns and trends, as well as the bike maintenance required for those seasons. 
